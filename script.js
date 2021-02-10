@@ -2,6 +2,9 @@ var wins = 0
 var loses = 0
 var tie = 0
 
+for(var i=0; i<10;i++){
+
+
 var choice = prompt("Your Choices");
 
 var pc = ["R", "P", "S"]
@@ -47,3 +50,5 @@ else if (choice === "P" && pcChoice === "R"){
 } 
 
 alert("wins " + wins +" Loses "  +loses+ " Ties " + tie)
+
+}

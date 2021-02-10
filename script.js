@@ -2,7 +2,7 @@ var wins = 0
 var loses = 0
 var tie = 0
 
-for(var i=0; i<5;i++){
+for(var i=0; i<10;i++){
 
 
 var choice = prompt("Your Choices");

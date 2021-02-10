@@ -1,4 +1,6 @@
-.image {
-    width:200px;
-    height:auto;
+div{
+    align-items: center;
+}
+img{
+    width: 200px;
 }
